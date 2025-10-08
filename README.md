@@ -1,6 +1,6 @@
 ## Jean Silva 👨‍💻
 
-**Analista de Suporte Pleno e Desenvolvedor web e mobile**
+**Analista de Suporte Pleno & Desenvolvedor Web e Mobile**
 
 Me chamo Jean Kleyton Sousa da Silva, tenho 26 anos e sou natural do Amazonas. Concluí o ensino médio na E.E. Vasco Vasques e sou formado no curso técnico em Redes de Computadores. Atualmente, curso Engenharia de Software na FUCAPI e acumulo 5 anos de experiência em suporte técnico. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos para me aperfeiçoar e criar soluções inovadoras.
 
