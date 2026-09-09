@@ -1,4 +1,4 @@
- ![Jean Kleyton](./foto_perfil_2.png) 
+<img align="left" width="260" src="./foto_perfil_2.png" alt="Jean Kleyton"/>
 
 ### Jean Kleyton ─────────────────────────────
 
@@ -10,10 +10,12 @@
 - **Languages.Programming:** .. Python, JavaScript, Java, C, C++, SQL
 - **Hobbies:** ................ Gaming, Reading, Traveling, Continuous Learning in IT, Family Time
 
+<br clear="left"/>
+
 ---
 
 ### Contact ─────────────────────────────
 
-- **Email:**................. jeankleyton28@gmail.com
-- **LinkedIn**................. [Meu perfil LinkedIn](https://www.linkedin.com/in/jean-kleyton-003b74236)
-- **Whatsapp our Contact number**................. [Meu WhatsApp profissional](https://wa.me/5592981146482)
+- **Email:** jeankleyton28@gmail.com
+- **LinkedIn** [Meu perfil LinkedIn](https://www.linkedin.com/in/jean-kleyton-003b74236)
+- **Whatsapp our Contact number** 💬 [Meu WhatsApp profissional](https://wa.me/5592981146482)
