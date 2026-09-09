@@ -14,6 +14,6 @@
 
 ### Contact ─────────────────────────────
 
-- **Email:** jeankleyton28@gmail.com
-- **LinkedIn** [Meu perfil LinkedIn](https://www.linkedin.com/in/jean-kleyton-003b74236)
-- **Whatsapp our Contact number**💬 [Meu WhatsApp profissional](https://wa.me/5592981146482)
+- **Email:**................. jeankleyton28@gmail.com
+- **LinkedIn**................. [Meu perfil LinkedIn](https://www.linkedin.com/in/jean-kleyton-003b74236)
+- **Whatsapp our Contact number**................. [Meu WhatsApp profissional](https://wa.me/5592981146482)
