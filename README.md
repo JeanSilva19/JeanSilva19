@@ -1,4 +1,4 @@
-![Jean Kleyton](./assets/foto_perfil.png)
+ ![Jean Kleyton](./foto_perfil.png) 
 
 ### Jean Kleyton ─────────────────────────────
 
